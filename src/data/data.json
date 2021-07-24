@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "address": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/848195619156086785/00fw0Hke_400x400.jpg",
+      "bio": "Ingeniero de Sistemas de la Universidad de Cundinamarca, apasionado para el desarrollo web basado en tecnologías JavaScript actuales que hacen cada día mejor el desarrollo de aplicaciones web modernas",
+      "certificate": [
+        {
+          "date": "Noviembre 2020",
+          "description": "Aprendizaje en desarrollo aplicaciones web, móviles y de escritorio con React.js. La librería JavaScript más popular en el mercado.",
+          "institution": "Platzi",
+          "name": "Frontend con React.js"
+        },
+        {
+          "date": "Marzo 2020",
+          "description": "Aprendizaje en dominio de HTML y CSS. Definición de arquitectura y construcción de sitios web usando componentes estáticos. Maquetación de pantallas principales de una página web. Agregar diseño responsivo y uso preprocesadores para optimizar código CSS.",
+          "institution": "Platzi",
+          "name": "Arquitectura Frontend"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ingeniero de Sistemas",
+          "description": "",
+          "endDate": "Diciembre 2016",
+          "institution": "Universidad de Cundinamarca",
+          "startDate": "Enero 2011"
+        }
+      ],
+      "experience": [
+        {
+          "company": "Cornershop by Uber",
+          "endDate": "Actualmente",
+          "jobDescription": "Mantenimiento y creación de nuevos productos para la industria de delivery, integrando, desarrollando y probando nuevas funciones en Frontend utilizando tecnologías como JavaScript, React JS, Redux y Jest.",
+          "jobTitle": "Frontend Engineer",
+          "startDate": "Mayo 2021"
+        },
+        {
+          "company": "VTEX",
+          "endDate": "Mayo 2021",
+          "jobDescription": "Creación de nuevos productos para la industria de E-commerce, desarrollando y probando nuevas funciones en Frontend utilizando tecnologías como JavaScript, TypeScript, React JS, Graphql y Jest.",
+          "jobTitle": "First Party App Engineer",
+          "startDate": "Febrero 2021"
+        },
+        {
+          "company": "Indra",
+          "endDate": "Febrero 2020",
+          "jobDescription": "Creación de nuevos productos para la industria petrolera, desarrollando y probando nuevas funciones en Frontend utilizando tecnologías como JavaScript, TypeScript, React JS, Redux, Material UI, Formik y Jest.",
+          "jobTitle": "Software Engineer",
+          "startDate": "Febrero 2021"
+        }
+      ],
+      "name": "Jorge Rangel Jimenez",
+      "profession": "Frontend Engineer en Cornershop by Uber",
+      "skills": [
+        {
+          "name": "HTML5",
+          "percentage": "95%"
+        },
+        {
+          "name": "CSS",
+          "percentage": "95%"
+        },
+        {
+          "name": "JavaScript",
+          "percentage": "85%"
+        },
+        {
+          "name": "React",
+          "percentage": "85%"
+        },
+        {
+          "name": "Redux",
+          "percentage": "80%"
+        }
+      ],
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/georgerangelcode"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/georgedevcode"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/georgerangelcode"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jorge-rangel-jim%C3%A9nez-101915125/"
+        }
+      ]
+    }
+  ]
+}
