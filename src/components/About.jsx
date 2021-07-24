@@ -40,13 +40,13 @@ const AboutProfession = styled.p`
 `;
 
 const AboutBio = styled.p`
-  color: #757575;
+  color: #090909;
   font-size: 1em;
   font-weigth: 300;
 `;
 
 const AboutLocation = styled.p`
-  color: #757575;
+  color: #090909;
   font-size: 1em;
   font-weigth: 400;
 `;
