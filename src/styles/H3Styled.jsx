@@ -5,6 +5,8 @@ const StyledH3 = styled.h3`
   color: #212121;
   font-weight: 400;
   margin: 0.5em 0;
+  display: flex;
+  flex-direction: column;
 `;
 
 const H3Styled = ({ children }) => <StyledH3>{children}</StyledH3>;

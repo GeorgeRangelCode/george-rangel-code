@@ -72,6 +72,14 @@
         {
           "name": "Redux",
           "percentage": "80%"
+        },
+        {
+          "name": "TypeScript",
+          "percentage": "75%"
+        }
+        {
+          "name": "Graphql",
+          "percentage": "65%"
         }
       ],
       "social": [
